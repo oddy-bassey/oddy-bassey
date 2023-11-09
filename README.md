@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1>Hey guys, !this is me Oddy <img src="https://slackmojis.com/emojis/11243-mustache_disguise/download" width="40"/></h1>
 
 Programming Languages
 
@@ -58,3 +58,8 @@ Interests
 ![Static Badge](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/opengl-%235586A4?style=for-the-badge&logo=openGl&logoColor=white)
+
+Current Domain Interests
+
+![Static Badge](https://img.shields.io/badge/Artificial%20Intelligence-%23339AF0?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Machine%20Learning%20For%20Analytics-%233F54A3?style=for-the-badge)
