@@ -1,4 +1,6 @@
 <h1>Hey guys, !this is me Oddy <img src="https://slackmojis.com/emojis/11243-mustache_disguise/download" width="40"/></h1>
+![backgroung image](docs/backgorund1.pnd)
+<br>
 
 Programming Languages
 
