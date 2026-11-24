@@ -5,20 +5,7 @@ data, event-driven services, and AI integrated with the guarantees that real ins
 
 ## What I'm building
 
-<table>
-<tr>
-<td width="72" valign="top"><img src="assets/revenue-platform.svg" width="56" height="56" alt=""></td>
-<td><b>A revenue management platform for Nigerian state governments.</b> Multi-tenant tax and revenue administration under the 2025 tax reform, with one taxpayer identity across every tax, maker-checker approval on every workflow, a single ledger that changes only through approved allocation, dated statutory rates, an immutable audit trail and five Nigerian languages. It deploys to a shared cloud or on-premises in a state office from the same images.</td>
-</tr>
-<tr>
-<td width="72" valign="top"><img src="assets/learning-platform.svg" width="56" height="56" alt=""></td>
-<td><b>An AI-assisted learning platform for schools and universities.</b> Graphs, 3D solids and a working model of the human body that students manipulate, from anatomy built from real CT scans to a heart and lungs driven by a physiology engine. A lecturer's own notes are read by a multi-stage AI pipeline and turned into a lesson, and a maths engine, not the AI, decides what is correct. It is built for classroom boards, PCs and tablets.</td>
-</tr>
-<tr>
-<td width="72" valign="top"><img src="assets/game.svg" width="56" height="56" alt=""></td>
-<td><b>A jetpack action game for phones, from curblAI Games.</b> Cartoon fighters battle across seven maps on a road north through Nigeria, from the Lagos rooftops and the Makoko waterfront to the Cross River rainforest, the Jos tin mines and the Sahel dunes. Each map has its own hiding spots, secrets, creatures and hazards.</td>
-</tr>
-</table>
+<img src="assets/what-im-building.svg" width="100%" alt="A revenue management platform for Nigerian state governments: multi-tenant tax and revenue administration under the 2025 tax reform, with one taxpayer identity across every tax, maker-checker approval on every workflow, a single ledger that changes only through approved allocation, dated statutory rates, an immutable audit trail and five Nigerian languages, deployed to the cloud or on-premises. An AI-assisted learning platform for schools and universities: graphs, 3D solids and a working model of the human body that students manipulate, with a lecturer's own notes turned into a lesson by a multi-stage AI pipeline and a maths engine deciding what is correct, for classroom boards, PCs and tablets. A jetpack action game for phones from curblAI Games: cartoon fighters battle across seven maps on a road north through Nigeria, from Lagos to the Sahel.">
 
 ## Areas of depth
 
