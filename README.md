@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Bassey Oddy: platforms, distributed systems and AI systems engineering" width="100%">
+<img src="assets/banner.svg" alt="Bassey Odudu Esit: platforms, distributed systems and AI systems engineering" width="100%">
 
 Software architect and engineer in Abuja, Nigeria. I design and build platforms end to end: multi-tenant
 data, event-driven services, and AI integrated with the guarantees that real institutions need.
@@ -31,4 +31,4 @@ Lightning talk, Naija Java User Group, 25 August 2026, supported by JetBrains. [
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/bassey-oddy-3287ba352) · [X](https://x.com/oddy_bassey)
+[X](https://x.com/oddy_bassey)
