@@ -23,12 +23,3 @@ data, event-driven services, and AI integrated with the guarantees that real ins
 ## Areas of depth
 
 <img src="assets/areas-of-depth.svg" width="100%" alt="AI systems engineering: agents that act on live systems, document understanding pipelines, grounding and knowledge, structured outputs, model routing and fallback, an AI gateway for regulated data, reproducible and cost-aware readings, and evaluation, with Claude, Spring AI, Python, gRPC and JSON Schema. Platform architecture: multi-tenant SaaS, domain-driven design for regulated work and event-driven systems, with Kafka, RabbitMQ, PostgreSQL, gRPC, CQRS and event sourcing. Backend and data: Java 21, Kotlin, Spring Boot, MySQL, MongoDB, Redis, Elasticsearch, ClickHouse and Apache NiFi. Interactive and 3D web: TypeScript, React, Next.js, Three.js and WebXR. Delivery and operations: Docker, Kubernetes, Envoy, Prometheus, Grafana, GitHub Actions, Jenkins, CircleCI, AWS and Azure.">
-
-## Speaking
-
-**Java Meets Generative AI: Building a Type-Safe AI Code Reviewer with Spring AI**<br>
-Lightning talk, Naija Java User Group, 25 August 2026, supported by JetBrains. [Code and slides](https://github.com/oddy-bassey/ai-code-reviewer).
-
-## Contact
-
-[X](https://x.com/oddy_bassey)
